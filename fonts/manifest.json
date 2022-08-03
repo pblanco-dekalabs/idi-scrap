@@ -1,0 +1,10 @@
+{
+  "comment": [
+    "Runtime manifest, defines the default font.",
+    "In order to have a valid font, ensure that the name of the font",
+    "defined in this document matches the pattern {name}-{variant}.ttf",
+    "Where {variant} is Bold, BoldItalic, Italic and Regular.",
+    "The {name} is the font name, ie: CenturyGothic"
+  ],
+  "font": "CenturyGothic"
+}
